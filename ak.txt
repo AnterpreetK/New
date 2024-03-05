@@ -7,3 +7,4 @@ First Commit
 
 >>>>>>> newBranch
 My name is Sajal
+My name is Anter
